@@ -6,7 +6,7 @@
 **So that** I can find make an informed purchase
 
 ## Wireframe/Mockup
-![story one wireframe](./images/story-2.png)
+![story one wireframe](../../images/story-2.png)
 
 ## Acceptance Criteria
 * Multiple product images can be displayed

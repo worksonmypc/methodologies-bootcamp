@@ -6,7 +6,7 @@
 **So that** I can find something to buy
 
 ## Wireframe/Mockup
-![story one wireframe](./images/story-1.png)
+![story one wireframe](../../images/story-1.png)
 
 ## Acceptance Criteria
 * Customer can browse products
