@@ -8,6 +8,17 @@ Finding the right balance
 > Agile Product Ownership in a Nutshell  
 > [YouTube Video](https://www.youtube.com/watch?v=502ILHjX9EE)
 
+## How do we build the Right Thing?
+
+As developers, how do we build the right thing?
+
+* Is it usable?
+* Is it testable?
+* Is it resiliant?
+* Is it scalable?
+* Is it secure?
+* Does it embrace change?
+
 ## INVEST
 
 | Term | Description |
