@@ -13,4 +13,4 @@ This week, we plan to offer the following discounts on our products:
 | C    | 20    |               |
 | D    | 15    |               |
 
-Use your awesome development skills to calculate
+Use your awesome development skills to calculate the total price of products at the checkout. Consider multiple products added to the basket including, a mixture of products.
